@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Fashion",
+  "description": "A dynamic, AI-powered e-commerce platform for modern fashion. Features natural language search and an AI personal stylist utilizing Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
